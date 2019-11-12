@@ -1,0 +1,15 @@
+{
+  "name": "learn-oop",
+  "version": "1.0.0",
+  "main": "script.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
